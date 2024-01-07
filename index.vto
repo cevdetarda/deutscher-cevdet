@@ -1,0 +1,27 @@
+---
+title: Deutsch mit Cevdet
+description: Entdecken, lernen und üben Sie die deutsche Sprache und Kultur mit Cevdet und lesen Sie eine Reihe von Texten auf verschiedenen Niveaus.
+---
+
+<h1>Lesen</h1>
+
+<h2>A1:</h2>
+<ul>
+  {{ for page of search.pages("level=a1") }}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {{ /for }}
+</ul>
+
+<h2>A2:</h2>
+<ul>
+  {{ for page of search.pages("level=a2") }}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {{ /for }}
+</ul>
+
+<h2>B1:</h2>
+<ul>
+  {{ for page of search.pages("level=b1") }}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {{ /for }}
+</ul>

@@ -1,0 +1,10 @@
+---
+title: B1 Texte von Cevdet
+description: B1 Texte von Cevdet
+---
+
+<ul>
+  {{ for page of search.pages("level=b1") }}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {{ /for }}
+</ul>
