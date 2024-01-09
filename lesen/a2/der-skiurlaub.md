@@ -1,6 +1,8 @@
 ---
 title: Der Skiurlaub
 description: Der Skiurlaub
+source: german.net
+link: https://german.net/reading/skiurlaub/
 ---
 
 Hartmut hat im Februar eine Reise gemacht: Er ist in die Alpen gefahren, in ein kleines Dorf in Österreich. Er hat in einem hübschen Hotel ein Einzelzimmer bekommen.

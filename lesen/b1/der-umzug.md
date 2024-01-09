@@ -1,6 +1,8 @@
 ---
 title: Der Umzug
 description: Der Umzug
+source: german.net
+link: https://german.net/reading/umzug2/
 ---
 
 Anna und Stefan ziehen heute um. Bisher hat Anna in München studiert und Stefan hat in Bremen als Ingenieur gearbeitet. Jetzt hat Anna eine Arbeit in Hamburg gefunden und das Paar hat sich entschieden zusammenzuziehen.

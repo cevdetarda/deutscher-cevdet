@@ -1,6 +1,7 @@
 ---
 title: Meine Familie
-description: Meine Familie
+source: german.net
+link: https://german.net/reading/familie/
 ---
 
 Zu meiner Familie gehören vier Personen. Die Mutter bin ich und dann gehört natürlich mein Mann dazu. Wir haben zwei Kinder, einen Sohn, der sechs Jahre alt ist und eine dreijährige Tochter.
