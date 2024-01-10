@@ -21,7 +21,7 @@ site.use(feed({
   },
   items: {
     title: "=title",
-    description: "=description",
+    description: "=title",
     published: "=date",
     content: "$.flow",
     lang: "de",
