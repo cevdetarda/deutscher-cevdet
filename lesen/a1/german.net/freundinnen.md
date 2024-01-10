@@ -1,6 +1,5 @@
 ---
 title: Freundinnen
-source: german.net
 link: https://german.net/reading/freundinnen/
 ---
 

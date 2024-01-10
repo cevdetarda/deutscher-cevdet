@@ -1,6 +1,5 @@
 ---
 title: Brief an Marion
-source: german.net
 link: https://german.net/reading/brief-an-marion/
 ---
 

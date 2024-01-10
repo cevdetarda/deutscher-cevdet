@@ -1,6 +1,5 @@
 ---
 title: Meine Familie
-source: german.net
 link: https://german.net/reading/familie/
 ---
 

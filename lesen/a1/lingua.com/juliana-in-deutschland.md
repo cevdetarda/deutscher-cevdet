@@ -1,6 +1,5 @@
 ---
 title: Juliana in Deutschland
-source: lingua.com
 link: https://lingua.com/german/reading/juliana/
 ---
 

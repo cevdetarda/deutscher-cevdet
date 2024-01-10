@@ -1,7 +1,5 @@
 ---
 title: Der Skiurlaub
-description: Der Skiurlaub
-source: german.net
 link: https://german.net/reading/skiurlaub/
 ---
 

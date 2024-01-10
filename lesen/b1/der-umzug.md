@@ -1,7 +1,5 @@
 ---
 title: Der Umzug
-description: Der Umzug
-source: german.net
 link: https://german.net/reading/umzug2/
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Vorstellung
-source: lingua.com
 link: https://lingua.com/german/reading/vorstellung/
 ---
 

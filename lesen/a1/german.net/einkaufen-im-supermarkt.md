@@ -1,6 +1,5 @@
 ---
 title: Einkaufen im Supermarkt
-source: german.net
 link: https://german.net/reading/einkaufen/
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Struppi
-source: german.net
 link: https://german.net/reading/struppi/
 ---
 

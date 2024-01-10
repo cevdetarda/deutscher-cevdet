@@ -1,6 +1,5 @@
 ---
 title: Maria und ihre Familie
-source: german.net
 link: https://german.net/reading/marias-familie/
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Ferien
-source: german.net
 link: https://german.net/reading/ferien/
 ---
 

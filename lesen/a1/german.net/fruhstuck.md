@@ -1,6 +1,5 @@
 ---
 title: Frühstück
-source: german.net
 link: https://german.net/reading/fruehstueck/
 ---
 

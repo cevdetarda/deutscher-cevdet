@@ -1,6 +1,5 @@
 ---
 title: Unser Haus
-source: german.net
 link: https://german.net/reading/unser-haus/
 ---
 

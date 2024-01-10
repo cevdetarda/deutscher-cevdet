@@ -1,6 +1,5 @@
 ---
 title: In der Schule
-source: german.net
 link: https://german.net/reading/schule/
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Susanne schreibt einen Brief
-source: german.net
 link: https://german.net/reading/brief/
 ---
 
